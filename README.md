@@ -10,12 +10,17 @@
 
 ![Homepage](https://github.com/izzyluuuuh/E-commerce-website/assets/103919666/dd560697-0184-4d42-b83b-a0190b50219a)
 
-
 ### 🖥️ Login Page
+
+![Login](https://github.com/izzyluuuuh/E-commerce-website/assets/103919666/b234cfa7-9cdc-4254-b98e-13108ceda953)
 
 ### 🖥️ Registration Page
 
+![Register](https://github.com/izzyluuuuh/E-commerce-website/assets/103919666/19764a6d-7fc8-4b3a-99ea-a327fbddbe6e)
+
 ### 🖥️ Orders Page
+
+![Orders](https://github.com/izzyluuuuh/E-commerce-website/assets/103919666/42440d20-584d-4158-adc2-9bc7b46663b5)
 
 ---
 
